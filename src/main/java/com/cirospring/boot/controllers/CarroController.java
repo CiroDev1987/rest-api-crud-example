@@ -1,5 +1,7 @@
-package com.cirospring.boot;
+package com.cirospring.boot.controllers;
 
+import com.cirospring.boot.repository.CarroRepository;
+import com.cirospring.boot.descricao.Carro;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
